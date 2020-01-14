@@ -1,6 +1,6 @@
 import pygal
 
-from 第15章.die import Die
+from die import Die
 
 die_1 = Die()
 die_2 = Die()

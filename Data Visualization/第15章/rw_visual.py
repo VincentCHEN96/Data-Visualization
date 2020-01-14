@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from 第15章.random_walk import RandomWalk
+from random_walk import RandomWalk
 
 
 random_walk = RandomWalk(50000)
